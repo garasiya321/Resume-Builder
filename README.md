@@ -125,5 +125,9 @@ Youtube Link :
 ![Screenshot03](https://github.com/garasiya321/Resume-Builder/assets/141838664/4e9c2fb0-03f4-4eaa-b2ce-d0033189dd7b)
 ![Screenshot05](https://github.com/garasiya321/Resume-Builder/assets/141838664/56b236c1-5065-4877-aa50-89fb9802a7fd)
 ![Screenshot06](https://github.com/garasiya321/Resume-Builder/assets/141838664/eb959aef-f10c-4cb4-99b6-9c7a29f73bab)
-![Screenshot07](![Screenshot 08](https://github.com/garasiya321/Resume-Builder/assets/141838664/61afc788-90d9-4064-9ab5-25a15b3f8788)
 
+
+![Screenshot 07](https://github.com/garasiya321/Resume-Builder/assets/141838664/067b2d51-fcd8-45aa-8e61-d8db55d7e086)
+![Screenshot 08](https://github.com/garasiya321/Resume-Builder/assets/141838664/27f2cb9b-eab6-4145-a9f2-7f29a93ff555)
+![Screenshot 10](https://github.com/garasiya321/Resume-Builder/assets/141838664/d42486be-1dc5-4ab8-8850-3a2e29adf3bb)
+![Screenshot 11](https://github.com/garasiya321/Resume-Builder/assets/141838664/35110dcf-72be-4992-8d59-e565b71f5e01)
