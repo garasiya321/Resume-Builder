@@ -131,7 +131,7 @@ Type **npm start** in terminal to start the application after installing the dep
 
 ##Links for the project
 
-Deployment Link : https://resume-builder-almabetter-six.vercel.app/
+Deployment Link : https://velvety-scone-17f984.netlify.app/
 
 Youtube Link : 
 
