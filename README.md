@@ -10,6 +10,14 @@ Our Resume-Builder is more than just a tool; it's a personalized journey that em
 
 # Technology and libraries used 
 
+1. React
+2. React-router-dom
+3. React-hook-form
+4. Redux
+5. Jspdf
+6. Materials UI and Icons
+7. Tailwind-CSS 
+
 
 
 ## Installation
