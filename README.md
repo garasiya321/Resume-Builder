@@ -2,27 +2,27 @@
 
 ## Resume-Builder
 
-Introduction :-
+Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customise your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
 
-Welcome to a transformative experience in crafting your professional narrative – our Resume-Builder. In a world where your resume is the gateway to career opportunities, our platform is designed to be your trusted ally in showcasing your skills, experiences, and achievements with unparalleled precision and style.
+Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
 
-Our Resume-Builder is more than just a tool; it's a personalized journey that empowers you to create a resume that reflects your unique professional identity. Whether you're a seasoned professional seeking to enhance your career story or a recent graduate stepping into the professional arena, our user-friendly platform is tailored to meet your needs with simplicity and effectiveness.
-
-# Technology and libraries used 
-
-1. React
-2. React-router-dom
-3. React-hook-form
-4. Redux
-5. Jspdf
-6. Materials UI and Icons
-7. Tailwind-CSS 
+**Just select template - Fill in the details and voila! Your resume is ready to preview and download.**
 
 ## Installation
 
 Clone this repository in your local machine and install the needed dependencies
 
 Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
+
+## Technologies and Libraries used
+
+- React
+- React-router-dom
+- React-hook-form
+- Redux
+- jspdf
+- Material UI and Icons
+- Tailwing-css
 
 ## Application Folder Structure
 
@@ -104,73 +104,41 @@ Type **npm start** in terminal to start the application after installing the dep
 └──tailwind.config.js
 ```
 
+## Components and Pages of Application: get start--
+![get start-3000-2024-01-14-14_09_51](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/a1a0a94e-af5d-43bd-af6b-2dfad40e864f)
 
-## Available Scripts
+**Template Selection** - From this component user can choose their favourite template.
 
-In the project directory, you can run:
+![template selection](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/5ef8b7f2-6c3c-407c-9d7f-3bebae1a5105)
 
-### `npm start`
+**Details Filling Page** - From this component user can add their details of personal info, education, experience and skills.
+![Detailfilling-2024-01-14-13_39_49](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/9173e2ce-9921-44bd-8aa4-f27f77ff9645)
 
-Runs the app in the development mode.\
-Open (https://velvety-scone-17f984.netlify.app/) to view it in your browser.
+![Education-2024-01-14-13_16_52](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/e3bcfdb4-feff-4d33-a483-b00fa05add53)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Work Experience-2024-01-14-13_22_34](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/b9d81bab-0437-4667-a84b-9aeb642e05fd)
+![Key Skill-2024-01-14-13_30_17](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/987f4428-0945-4370-8211-1c774b5781fb)
+**My Resume Page** - This component shows the resume that user saved.
 
-### `npm run build`
+![myresume-2024-01-14-13_41_06](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/48225921-987c-417b-a86c-0dad650d9be3)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Abouts Us** 
+![about-us-2024-01-14-13_46_34](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/7ca53ab4-e1d4-4bbb-adc8-14b196c176e8)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+##Links for the project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Deployment Link : https://resume-builder-almabetter-six.vercel.app/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Youtube Link : 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Regarded
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Dinesh Garashiya
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-![Screenshot 2024-01-19 024136](https://github.com/garasiya321/Resume-Builder/assets/141838664/649ded48-d71f-4d4b-a44f-f9bc83486fe4)
-![Screenshot 2024-01-19 024346](https://github.com/garasiya321/Resume-Builder/assets/141838664/eedeca1d-3174-4cdd-832a-0d61a7d5a3fe)
-![Screenshot 2024-01-19 024508](https://github.com/garasiya321/Resume-Builder/assets/141838664/d5054699-f506-48b3-90a9-fef407206a15)
