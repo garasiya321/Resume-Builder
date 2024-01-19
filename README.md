@@ -64,7 +64,8 @@ Type **npm start** in terminal to start the application after installing the dep
 │			├──Detailfilling.jsx
 │			├──sidebar.css 
 │		├──Home/
-│			├──TempleteCard.jsx
+│			├──TempleteCard.js![Screenshot01](https://github.com/garasiya321/Resume-Builder/assets/141838664/0f4d1c2c-2b24-4021-9995-07dcadeba5ef)
+x
 │			├──Templetes.jsx
 │		├──Preview/
 │			├──Preview,jsx
@@ -105,6 +106,8 @@ Type **npm start** in terminal to start the application after installing the dep
 ```
 
 
+
+
 ##Links for the project
 
 Deployment Link : https://velvety-scone-17f984.netlify.app/
@@ -116,5 +119,11 @@ Youtube Link :
 
 
 - Dinesh Garashiya
+![Screenshot01](https://github.com/garasiya321/Resume-Builder/assets/141838664/23c82884-248b-4ec8-8805-93804851955a)
 
+![Screenshot02](https://github.com/garasiya321/Resume-Builder/assets/141838664/56845060-d7ab-44a7-9423-83de58afdaef)
+![Screenshot03](https://github.com/garasiya321/Resume-Builder/assets/141838664/4e9c2fb0-03f4-4eaa-b2ce-d0033189dd7b)
+![Screenshot05](https://github.com/garasiya321/Resume-Builder/assets/141838664/56b236c1-5065-4877-aa50-89fb9802a7fd)
+![Screenshot06](https://github.com/garasiya321/Resume-Builder/assets/141838664/eb959aef-f10c-4cb4-99b6-9c7a29f73bab)
+![Screenshot07](![Screenshot 08](https://github.com/garasiya321/Resume-Builder/assets/141838664/61afc788-90d9-4064-9ab5-25a15b3f8788)
 
