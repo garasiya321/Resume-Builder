@@ -8,16 +8,11 @@ Welcome to a transformative experience in crafting your professional narrative â
 
 Our Resume-Builder is more than just a tool; it's a personalized journey that empowers you to create a resume that reflects your unique professional identity. Whether you're a seasoned professional seeking to enhance your career story or a recent graduate stepping into the professional arena, our user-friendly platform is tailored to meet your needs with simplicity and effectiveness.
 
+# Technology and libraries used 
+
+
+
 ## Installation
-
-
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 
