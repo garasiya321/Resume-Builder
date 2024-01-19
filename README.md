@@ -18,10 +18,13 @@ Our Resume-Builder is more than just a tool; it's a personalized journey that em
 6. Materials UI and Icons
 7. Tailwind-CSS 
 
-
-
 ## Installation
-# Getting Started with Create React App
+
+Clone this repository in your local machine and install the needed dependencies
+
+Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
