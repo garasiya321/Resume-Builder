@@ -24,11 +24,6 @@ Clone this repository in your local machine and install the needed dependencies
 
 Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
 
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
